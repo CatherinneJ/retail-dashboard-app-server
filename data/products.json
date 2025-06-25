@@ -1,0 +1,247 @@
+[
+  {
+    "id": "p1",
+    "name": "INZONE H5 White",
+    "description": " Precise rival detection with 360 Spatial Sound for Gaming
+    Game for hours in comfort with light-weight 260 g design and minimal side pressure
+    Smooth team communications with bidirectional boom microphone with AI-based noise reduction technology ",
+    "price": 139.99,
+    "stock": 10,
+    "image": [
+    "/images/gaming/gaming1.jpg",
+    "/images/gaming/gaming1_front.jpg",
+    "/images/gaming/gaming1_side.jpg"
+  ]
+  },
+   {
+    "id": "p2",
+    "name": "INZONE H5 Black",
+    "description": " Precise rival detection with 360 Spatial Sound for Gaming
+    Game for hours in comfort with light-weight 260 g design and minimal side pressure
+    Smooth team communications with bidirectional boom microphone with AI-based noise reduction technology  ",
+    "price": 139.99,
+    "stock": 10,
+    "image":[
+    "/images/gaming/gaming2.jpg",
+    "/images/gaming/gaming2_front.jpg",
+    "/images/gaming/gaming2_side.jpg"
+  ]
+  },
+  {
+    "id": "p3",
+    "name": "INZONE H9 White",
+    "description": " Precise rival detection with 360 Spatial Sound for Gaming
+    Soft headband cushion and synthetic leather ear pads with stability and minimal pressure for wearing comfort
+    Shut out surrounding sounds with Dual Noise Sensor technology ",
+    "price": 239.99,
+    "stock": 10,
+    "image": [
+    "/images/gaming/gaming3.jpg",
+    "/images/gaming/gaming3_front.jpg",
+    "/images/gaming/gaming3_side.jpg"
+  ]
+  },
+  {
+    "id": "p4",
+    "name": "INZONE H9 Black",
+    "description": "Precise rival detection with 360 Spatial Sound for Gaming
+    Soft headband cushion and synthetic leather ear pads with stability and minimal pressure for wearing comfort
+    Shut out surrounding sounds with Dual Noise Sensor technology ",
+    "price": 239.99,
+    "stock": 10,
+    "image": [
+    "/images/gaming/gaming4.jpg",
+    "/images/gaming/gaming4_front.jpg",
+    "/images/gaming/gaming4_side.jpg"
+  ]
+  },
+  {
+    "id": "p5",
+    "name": "INZONE H3 White",
+    "description": "Precise rival detection with 360 Spatial Sound for Gaming
+    Game for hours in comfort with soft headband and smooth nylon ear pads
+    Smooth team communications with boom microphone ",
+    "price": 79.00,
+    "stock": 17,
+    "image": [
+    "/images/gaming/gaming5.jpg",
+    "/images/gaming/gaming5_front.jpg",
+    "/images/gaming/gaming5_side.jpg"
+  ]
+  },
+  {
+    "id": "p6",
+    "name": "MDR-ZX110NC Black",
+    "description": "Noise canceling technology
+    30mm driver unit
+    Tangle-free 1.2m cord.  ",
+    "price": 13.99,
+    "stock": 117,
+    "image": [
+    "/images/headband/headband1.jpg",
+    "/images/headband/headband1_front.jpg",
+    "/images/headband/headband1_side.jpg",
+    "/images/headband/headband1_leftside.jpg"
+  ]
+  },
+  {
+    "id": "p7",
+    "name": "MDR-ZX110NC Pink",
+    "description": "Noise canceling technology
+    30mm driver unit
+    Tangle-free 1.2m cord.  ",
+    "price": 13.99,
+    "stock": 47,
+    "image": [
+    "/images/headband/headband2.jpg",
+    "/images/headband/headband2_front.jpg",
+    "/images/headband/headband2_side.jpg"
+  ]
+  },
+  {
+    "id": "p8",
+    "name": "MDR-ZX110NC White",
+    "description": "Noise canceling technology
+    30mm driver unit
+    Tangle-free 1.2m cord.  ",
+    "price": 13.99,
+    "stock": 97,
+    "image": [
+    "/images/headband/headband3.jpg",
+    "/images/headband/headband3_front.jpg",
+    "/images/headband/headband3_side.jpg"
+  ]
+  },
+  {
+    "id": "p9",
+    "name": "WH-1000XM5 Black",
+    "description":  "The advanced noise cancelling3 with two high-performance processors and eight microphones
+    Exceptional sound quality with specially designed 30 mm driver unit
+    Superior noise-free calls with 2x2 beamforming microphones and noise-reduction system (using AI)",
+    "price": 359.00,
+    "stock": 15,
+    "image": [
+    "/images/headband/headband4.jpg",
+    "/images/headband/headband4_front.jpg",
+    "/images/headband/headband4_side.jpg"
+  ]
+  },
+   {
+    "id": "p10",
+    "name": "WH-1000XM5 Pink ",
+    "description": "The advanced noise cancelling3 with two high-performance processors and eight microphones
+    Exceptional sound quality with specially designed 30 mm driver unit
+    Superior noise-free calls with 2x2 beamforming microphones and noise-reduction system (using AI)",
+    "price": 359.00,
+    "stock": 8,
+    "image": [
+    "/images/headband/headband5.jpg",
+    "/images/headband/headband5_front.jpg",
+    "/images/headband/headband5_side.jpg"
+  ]
+  },
+   {
+    "id": "p11",
+    "name": "WH-1000XM5 White",
+    "description": "The advanced noise cancelling3 with two high-performance processors and eight microphones
+    Exceptional sound quality with specially designed 30 mm driver unit
+    Superior noise-free calls with 2x2 beamforming microphones and noise-reduction system (using AI)",
+    "price": 359.00,
+    "stock": 15,
+    "image": [
+    "/images/headband/headband6.jpg",
+    "/images/headband/headband6_front.jpg",
+    "/images/headband/headband6_side.jpg"
+  ]
+  },
+   {
+    "id": "p12",
+    "name": "MDR-EX110AP Black",
+    "description": "Digital Noise Cancelling with HD Noise Cancelling Processor QN1 and Dual Noise Sensor Technology
+    HD Hybrid Driver System
+    Smart listening experience by Adaptive Sound Control",
+    "price": 16.99,
+    "stock": 15,
+    "image": "images/in-ear/in-ear1.jpg"
+  },
+  {
+    "id": "p13",
+    "name": "MDR-EX110AP Red",
+    "description": "Digital Noise Cancelling with HD Noise Cancelling Processor QN1 and Dual Noise Sensor Technology
+    HD Hybrid Driver System
+    Smart listening experience by Adaptive Sound Control",
+    "price": 16.99,
+    "stock": 25,
+    "image": "images/in-ear/in-ear2.jpg"
+  },
+   {
+    "id": "p14",
+    "name": "MDR-EX110AP White",
+    "description": "Digital Noise Cancelling with HD Noise Cancelling Processor QN1 and Dual Noise Sensor Technology
+    HD Hybrid Driver System
+    Smart listening experience by Adaptive Sound Control",
+    "price": 16.99,
+    "stock": 25,
+    "image": "images/in-ear/in-ear3.jpg"
+  },
+   {
+    "id": "p15",
+    "name": "WF-1000XM5 Black",
+    "description": "The best noise cancelling* with two high performance processors and dual feedback microphones (*As of September 1, 2024. Ambient noise reduction according to research by Sony Corporation, measured using JEITA-compliant guidelines for the top 10 brands (by market share) of truly wireless style of noise-cancelling headphones market.)
+    Astonishing sound quality with High-Resolution Audio
+    Sony’s best ever call quality* (*As of June 26, 2023, in truly wireless headphones.)",
+    "price": 279.99,
+    "stock": 15,
+    "image": "images/truly wireless/truly-wireless1.jpg"
+  },
+   {
+    "id": "p16",
+    "name": "WF-1000XM5 White",
+    "description": "The best noise cancelling* with two high performance processors and dual feedback microphones (*As of September 1, 2024. Ambient noise reduction according to research by Sony Corporation, measured using JEITA-compliant guidelines for the top 10 brands (by market share) of truly wireless style of noise-cancelling headphones market.)
+    Astonishing sound quality with High-Resolution Audio
+    Sony’s best ever call quality* (*As of June 26, 2023, in truly wireless headphones.)",
+    "price": 279.99,
+    "stock": 15,
+    "image": "images/truly wireless/truly-wireless2.jpg"
+  }
+  {
+    "id": "p17",
+    "name": "WF-1000XM4 Black",
+    "description": "Digital Noise Cancelling with Integrated Processor V1
+    Exceptional sound quality with High-Resolution Audio Wireless
+    Smart listening and superior call quality",
+    "price": 229.99,
+    "stock": 11,
+    "image": "images/truly wireless/truly-wireless3.jpg"
+  }
+  {
+    "id": "p18",
+    "name": "LinkBuds Open Black",
+    "description": "The best noise cancelling* with two high performance processors and dual feedback microphones (*As of September 1, 2024. Ambient noise reduction according to research by Sony Corporation, measured using JEITA-compliant guidelines for the top 10 brands (by market share) of truly wireless style of noise-cancelling headphones market.)
+    Astonishing sound quality with High-Resolution Audio
+    Sony’s best ever call quality* (*As of June 26, 2023, in truly wireless headphones.)",
+    "price": 199.99,
+    "stock": 15,
+    "image": "images/truly wireless/truly-wireless4.jpg"
+  }
+  {
+    "id": "p19",
+    "name": "WF-1000XM5 White",
+    "description": "The best noise cancelling* with two high performance processors and dual feedback microphones (*As of September 1, 2024. Ambient noise reduction according to research by Sony Corporation, measured using JEITA-compliant guidelines for the top 10 brands (by market share) of truly wireless style of noise-cancelling headphones market.)
+    Astonishing sound quality with High-Resolution Audio
+    Sony’s best ever call quality* (*As of June 26, 2023, in truly wireless headphones.)",
+    "price": 199.99,
+    "stock": 15,
+    "image": "images/truly wireless/truly-wireless5.jpg"
+  }
+  {
+    "id": "p20",
+    "name": "LinkBuds Purple ",
+    "description": "The best noise cancelling* with two high performance processors and dual feedback microphones (*As of September 1, 2024. Ambient noise reduction according to research by Sony Corporation, measured using JEITA-compliant guidelines for the top 10 brands (by market share) of truly wireless style of noise-cancelling headphones market.)
+    Astonishing sound quality with High-Resolution Audio
+    Sony’s best ever call quality* (*As of June 26, 2023, in truly wireless headphones.)",
+    "price": 199.99,
+    "stock": 15,
+    "image": "images/truly wireless/truly-wireless6.jpg"
+  }
+]
