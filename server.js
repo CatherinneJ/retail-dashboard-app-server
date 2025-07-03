@@ -159,8 +159,8 @@ app.get('/api/sales/:id', async (req, res) => {
       datasets: [{
         label: 'Sales (€)',
         data,
-        backgroundColor: 'rgba(249, 245, 245, 0.5)',
-        borderColor: 'rgba(75, 192, 192, 1)',
+        background: 'rgb(190, 32, 185)',
+        borderColor: 'rgb(242, 50, 88)',
         borderWidth: 1
       }]
     });
